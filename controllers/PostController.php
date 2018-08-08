@@ -33,7 +33,7 @@ class PostController extends ActiveController
     {
       return [
         'http://localhost:4200',
-        'http://localhost/api/web/contactos'
+        'http://localhost/micro/web/post'
       ];
     }
 }
